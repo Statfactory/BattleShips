@@ -1,1 +1,4 @@
 # BattleShips
+
+# run:
+dotnet test
